@@ -12,7 +12,7 @@ Murilo Eziliano | [medium](https://medium.com/@murilosez06)
 Murilo Eziliano |[LinkedIN](https://www.linkedin.com/in/murilo-eziliano/)
 
 
-Languages and Tools:
+Languages and Tools:</br>
 Python
 
 Jupyter Notebook
