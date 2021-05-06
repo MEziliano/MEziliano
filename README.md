@@ -12,7 +12,7 @@ Connect with me: :loudspeaker: </br>
 
 
 Languages and Tools:</br>
-:snake: Python | :ringed_planet: Jupyter Notebook | Pandas :panda_face:
+:snake: Python | :ringed_planet: Jupyter Notebook | :panda_face: Pandas 
 
 
 
