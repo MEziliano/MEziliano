@@ -1,5 +1,5 @@
 **Murilo Eziliano - [Data Analystic - BI]**  </br>
-I am a Lawyer trying to turned data scientist who loves leveraging data-driven solutions that make an impact on business and society! </br>
+I am a guy who's trying to turned data scientist who loves leveraging data-driven solutions that make an impact on business and society! </br>
 💻 I'm learning *Python* and *Power Bi* </br>
     Also improving some skills in Databases like MySQL </br>
 📈 I’m constantly learning and improving my skills, my coding, my knowledge... </br>
