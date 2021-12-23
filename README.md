@@ -29,8 +29,8 @@ Connect with me: :loudspeaker: </br>
 </div>
 
 <div>
-    <a href="https://www.linkedin.com/in/murilo-eziliano/"><img  scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://medium.com/@murilosez06"><img scr="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" taget="_blank"></a>
+    <a href="https://www.linkedin.com/in/murilo-eziliano/" taget="_blank"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget="_blank"></a>
+    <a href="https://medium.com/@murilosez06" taget="_blank"><img scr="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" taget="_blank"></a>
 
 </div>
 
