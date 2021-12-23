@@ -15,6 +15,26 @@ Connect with me: :loudspeaker: </br>
 Languages and Tools:</br>
 :snake: Python | :ringed_planet: Jupyter Notebook | :panda_face: Pandas | MySQL: 🐬
 
+<div>
+<img height ="180em" scr="![Mumu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MEZiliano&theme=prussian&show_icons=true")></br>
+<img height="180em" scr="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&theme=prussian)](https://github.com/MEziliano/github-readme-stats")
+</div>
+
+<div style="display: inline_block"><br>
+<img align ="center" alt = "Python" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img align ="center" alt = "Jupyter" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align ="center" alt = "VSCode" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align ="center" alt = "MySQL" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align ="center" alt = "Pandas" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img align ="center" alt = "numpy" height"30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    </div>
+
+<div>
+<a href="link" target="_blank><img  scr="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter></a>
+<a href="link" target="_blank ><img scr="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
+
+</div>
+
 
 
 
