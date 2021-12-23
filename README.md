@@ -10,6 +10,7 @@ I am a guy who's trying to turned data scientist who loves leveraging data-drive
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&theme=prussian"/>
 
+
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,11 +23,11 @@ I am a guy who's trying to turned data scientist who loves leveraging data-drive
 </div>
 
 <div>
-    <a href="https://www.linkedin.com/in/murilo-eziliano/" taget="_blank"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget="_blank"></a>
-    <img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget="_blank">
-    <a href="https://medium.com/@murilosez06" taget="_blank"><img scr="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" taget="_blank"></a>
-    <img scr="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" taget="_blank">
-
+    <a href="https://www.linkedin.com/in/murilo-eziliano/" taget="_blank"><img scr="/youtube/comments/:videoId" taget="_blank">
+    </a>
+    <a href="https://medium.com/@murilosez06" taget="_blank"><img scr="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"taget="_blank>
+       </a>
+    
 </div>
 
 
