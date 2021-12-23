@@ -14,8 +14,8 @@ Connect with me: :loudspeaker: </br>
 
 
 <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&theme=prussian"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&theme=prussian"/>
 
 </div>
 
