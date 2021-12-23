@@ -12,26 +12,25 @@ Connect with me: :loudspeaker: </br>
 :briefcase: Murilo Eziliano |[LinkedIN](https://www.linkedin.com/in/murilo-eziliano/)
 
 
-Languages and Tools:</br>
-:snake: Python | :ringed_planet: Jupyter Notebook | :panda_face: Pandas | MySQL: 🐬
 
 <div>
-<img height ="180em" scr="![Mumu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MEZiliano&theme=prussian&show_icons=true")></br>
-<img height="180em" scr="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&theme=prussian)](https://github.com/MEziliano/github-readme-stats")
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&theme=prussian"/>
+
 </div>
 
 <div style="display: inline_block"><br>
-<img align ="center" alt = "Python" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-<img align ="center" alt = "Jupyter" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align ="center" alt = "VSCode" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align ="center" alt = "MySQL" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align ="center" alt = "Pandas" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img align ="center" alt = "numpy" height"30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    </div>
+    <img align ="center" alt = "Python" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+    <img align ="center" alt = "Jupyter" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img align ="center" alt = "VSCode" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img align ="center" alt = "MySQL" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align ="center" alt = "Pandas" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+    <img align ="center" alt = "numpy" height"40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+</div>
 
 <div>
-<a href="link" target="_blank><img  scr="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter></a>
-<a href="link" target="_blank ><img scr="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
+    <a href="https://www.linkedin.com/in/murilo-eziliano/"><img  scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://medium.com/@murilosez06"><img scr="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" taget="_blank"></a>
 
 </div>
 
