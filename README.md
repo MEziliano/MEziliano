@@ -21,12 +21,9 @@ I am a guy who's trying to turned data scientist who loves leveraging data-drive
     <img align ="center" alt = "Pandas" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
     <img align ="center" alt = "numpy" height"40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 </div>
-
+<h1> Connect with me at: </h1>
 <div>
-    <a href="https://www.linkedin.com/in/murilo-eziliano/" taget="_blank"><img scr="/youtube/comments/:videoId" taget="_blank">
-    </a>
-    <a href="https://medium.com/@murilosez06" taget="_blank"><img scr="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"taget="_blank>
-       </a>
+<a href="https://www.linkedin.com/in/murilo-e-5a516ab2/"><img height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
     
 </div>
 
