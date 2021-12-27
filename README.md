@@ -4,6 +4,7 @@
 - 🌱 Atualmente estou aprendendo Streamlit/Flask/Django
 - 👯 Estou procurando colaborar com outros programadores
 - 🤔 Estou procurando ajuda com IA
+- 📝 Eu escrevo artigos no Medium 
 - 💬 Pergunte-me sobre curiosidades
 - ⚡ Curiosidade: Sou um grande programador em Python... Até pq tenho 1,93 :rofl:
 
@@ -23,6 +24,7 @@
     <img align ="center" alt = "MySQL" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align ="center" alt = "Pandas" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
     <img align ="center" alt = "numpy" height"40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    <img align ="center" alt = "numpy" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img  align ="center" alt = "numpy" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
