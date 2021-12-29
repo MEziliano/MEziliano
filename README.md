@@ -6,7 +6,7 @@
 - 🤔 Estou procurando ajuda com IA
 - 📝 Eu escrevo artigos no Medium 
 - 💬 Pergunte-me sobre curiosidades
-- ⚡ Curiosidade: Sou um grande programador em Python... Até pq tenho 1,93 :rofl:
+- ⚡ Curiosidade: Sou fotógrafo nas horas, pode ver nos contatos! :camera_flash:
 
 
 <div>
@@ -33,10 +33,10 @@
 
 <div>
 <a href="https://www.linkedin.com/in/murilo-e-5a516ab2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://medium.com/@murilosez06" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="https://t.me/MuriloSEz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ <a href="https://medium.com/@murilosez06" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@murilosez06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+<a href ="https://www.instagram.com/by_ezln/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 </div>
 
 
