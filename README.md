@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando com Ciência de Dados
 - 🌱 Atualmente estou aprendendo Streamlit/Flask/Django
 - 👯 Estou procurando colaborar com outros programadores
-- 🤔 Estou procurando ajuda com IA
+- 🤔 Estou procurando ajuda em aumentar a porcentagem de Python...
 - 📝 Eu escrevo artigos no Medium 
 - 💬 Pergunte-me sobre curiosidades
 - ⚡ Curiosidade: Sou fotógrafo nas horas, pode ver nos contatos! :camera_flash:
