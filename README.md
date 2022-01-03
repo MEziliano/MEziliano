@@ -1,7 +1,7 @@
 ## Olá, eu sou o Murilo! 
 ### Bem vindo ao meu perfil GitHub 👋
 - 🔭 Atualmente estou trabalhando com Ciência de Dados
-- 🌱 Atualmente estou aprendendo Streamlit/Flask/Django
+- 🌱 Atualmente estou aprendendo Streamlit/Flask/Django e Computação na nuvem :computer::cloud:
 - 👯 Estou procurando colaborar com outros programadores
 - 🤔 Estou procurando ajuda em aumentar a porcentagem de Python...
 - 📝 Eu escrevo artigos no Medium 
