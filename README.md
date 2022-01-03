@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo Streamlit/Flask/Django e Computação na nuvem :computer::cloud:
 - 👯 Estou procurando colaborar com outros programadores
 - 🤔 Estou procurando ajuda em aumentar a porcentagem de Python...
-- 📝 Eu escrevo artigos no Medium 
+- 📝 Escrevo artigos no Medium 
 - 💬 Pergunte-me sobre curiosidades
 - ⚡ Curiosidade: Sou fotógrafo nas horas, pode ver nos contatos! :camera_flash:
 
