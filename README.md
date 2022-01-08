@@ -2,10 +2,10 @@
 ### Bem vindo ao meu perfil GitHub 👋
 - 🔭 Atualmente estou trabalhando com Ciência de Dados
 - 🌱 Atualmente estou aprendendo Streamlit/Flask/Django e Computação na nuvem :computer::cloud:
-- 👯 Estou procurando colaborar com outros programadores
+- 👯 Estou procurando colaborar com outros programadores, Data Scientist ...
 - 🤔 Estou procurando ajuda em aumentar a porcentagem de Python...
 - 📝 Escrevo artigos no Medium 
-- 💬 Pergunte-me sobre curiosidades
+- 💬 Pergunte-me sobre meus projetos!
 - ⚡ Curiosidade: Sou fotógrafo nas horas, pode ver nos contatos! :camera_flash:
 
 
