@@ -3,7 +3,7 @@
 >- 🔭 Atualmente estou trabalhando com Ciência de Dados
 >- 🌱 Atualmente estou aprendendo Streamlit/Flask/Django e Computação na nuvem :computer::cloud:
 >- 👯 Estou procurando colaborar com outros programadores, Data Scientist ...
->- 🤔 Estou procurando ajuda em aumentar a porcentagem de Python...
+>- 🤔 Estou procurando ajuda no TensorFlow e Pytorch 
 >- 📝 Escrevo artigos no Medium 
 >- 💬 Pergunte-me sobre meus projetos!
 >- ⚡ Curiosidade: Sou fotógrafo nas horas, pode ver nos contatos! :camera_flash:
