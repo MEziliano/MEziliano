@@ -1,12 +1,12 @@
 # Hello, I'm Murilo! 
 ### Welcome to my GitHub profile 👋
 >- 🔭 Currently working with Data Science, Data Viz and Machine Learning
->- 🌱 Atualmente estou aprendendo Streamlit/Flask/Django e Computação na nuvem :computer::cloud:
->- 👯 Estou procurando colaborar com outros programadores, Data Scientist ...
->- 🤔 Estou procurando ajuda no TensorFlow e Pytorch 
+>- 🌱 Actually I'm learning Streamlit/Flask/Django and Cloud :computer::cloud:
+>- 👯 I'm trying to co work with others Data Scientist ...
+>- 🤔 I'm  looking help with TensorFlow and Pytorch
 >- 📝 I write a few articles in Medium 
 >- 💬 Ask me anything about my projects!
->- ⚡ Curiosidade: Sou fotógrafo nas horas, pode ver nos contatos! :camera_flash:
+>- ⚡ Curiosity: I'm photographer at the free time, check my instagram below! :camera_flash: :point_down:
 
 
 <div>
@@ -40,7 +40,7 @@
 <a href ="https://www.instagram.com/by_ezln/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div> 
 <div>
-<h3> Ypu can also find me at: </h3>
+<h3> You can also find me at: </h3>
 <a href="https://www.kaggle.com/muriloeziliano"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://www.hackerrank.com/murilosez06"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" taget="_blank"></a>
 <a href ="https://open.spotify.com/user/murilosez"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white target="_blank"></a>
