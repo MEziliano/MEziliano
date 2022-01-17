@@ -1,11 +1,11 @@
-# Olá, eu sou o Murilo! 
-### Bem vindo ao meu perfil GitHub 👋
->- 🔭 Atualmente estou trabalhando com Ciência de Dados
+# Hello, I'm Murilo! 
+### Welcome to my GitHub profile 👋
+>- 🔭 Currently working with Data Science, Data Viz and Machine Learning
 >- 🌱 Atualmente estou aprendendo Streamlit/Flask/Django e Computação na nuvem :computer::cloud:
 >- 👯 Estou procurando colaborar com outros programadores, Data Scientist ...
 >- 🤔 Estou procurando ajuda no TensorFlow e Pytorch 
->- 📝 Escrevo artigos no Medium 
->- 💬 Pergunte-me sobre meus projetos!
+>- 📝 I write a few articles in Medium 
+>- 💬 Ask me anything about my projects!
 >- ⚡ Curiosidade: Sou fotógrafo nas horas, pode ver nos contatos! :camera_flash:
 
 
@@ -16,7 +16,7 @@
 </div>
 
 
-## Ferramentas e Tecnologias:
+## Tools and Technologies: 
 <div style="display: inline_block"><br>
     <img align ="center" alt = "Python" height"50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
     <img align ="center" alt = "Jupyter" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
@@ -30,7 +30,7 @@
 
 
 
-# Contatos:
+# Contacts:
 
 <div>
 <a href="https://www.linkedin.com/in/murilo-e-5a516ab2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -40,7 +40,7 @@
 <a href ="https://www.instagram.com/by_ezln/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div> 
 <div>
-<h3> Mas você também pode me achar em: </h3>
+<h3> Ypu can also find me at: </h3>
 <a href="https://www.kaggle.com/muriloeziliano"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://www.hackerrank.com/murilosez06"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" taget="_blank"></a>
 <a href ="https://open.spotify.com/user/murilosez"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white target="_blank"></a>
