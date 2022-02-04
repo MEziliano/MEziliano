@@ -3,7 +3,7 @@
 >- 🔭 Currently working with Data Science, Data Viz and Machine Learning
 >- 🌱 Actually I'm learning Streamlit/Flask/Django and Cloud :computer::cloud:
 >- :chess_pawn: and also I'm studying the Theory of Games and The SHAP Values in Machine Learning
->- 👯 I'm trying to co work with others Data Scientist ...
+>- 👯 I'm trying to co work with others Data Scientist and Data Enthusiasts
 >- 🤔 I'm  looking help with TensorFlow and Pytorch
 >- 📝 I write a few articles in Medium 
 >- 💬 Ask me anything about my projects!
