@@ -7,7 +7,7 @@
 >- 🤔 I'm  looking help with TensorFlow and Pytorch
 >- 📝 I write a few articles in Medium 
 >- 💬 Ask me anything about my projects!
->- ⚡ Curiosity: I'm photographer at the free time, check my instagram below! :camera_flash: :point_down:
+>- ⚡ Curiosity: I'm photographer at the free time, check my instagram below! :camera_flash: :point_down: and I like to play chess at my free time
 
 
 <div>
