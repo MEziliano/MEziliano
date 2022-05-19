@@ -30,9 +30,9 @@
 </div>
 
 ### Working with:
-<divstyle="display: inline_block"><br>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-<img src ="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+<div style="display: inline_block"><br>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+    <img src ="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
 
 # Contacts:
@@ -50,8 +50,10 @@
 <a href="https://www.hackerrank.com/murilosez06"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" taget="_blank"></a>
 <a href ="https://open.spotify.com/user/murilosez"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <a href="https://www.codewars.com/users/MEziliano"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/MuriloEziliano#7080"><https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white>
-</div>
+<a href="https://discord.com/channels/MuriloEziliano#7080"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+    </div>
+<!-- <a href="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img align="center" src=""></a> 
+
 
 
 
