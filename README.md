@@ -14,6 +14,9 @@
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&theme=prussian"/>
 
+<!--    #🎧 Spotify Playing
+[<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="murilosez Spotify Playing" width="350" />](https://open.spotify.com/user/murilosez)
+    </div> -->
 </div>
 
 
@@ -52,6 +55,7 @@
 <a href="https://www.codewars.com/users/MEziliano"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/MuriloEziliano#7080"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
     </div>
+    
 <!-- <a href="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img align="center" src=""></a> 
 
 
