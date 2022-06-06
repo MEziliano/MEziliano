@@ -30,7 +30,7 @@
     <img align ="center" alt = "numpy" height"40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
     <img align ="center" alt = "TF" height"40" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
     <img align ="center" alt = "Pytorch" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />  
-    <img align ="center" alt = "Flask" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+    <img align ="center" alt = "Flask" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
     <img align ="center" alt = "Django" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img align ="center" alt = "HTML" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />    
     <img align ="center" alt = "CSS" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -46,9 +46,12 @@
 <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
     <img src ="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-</div>
--->
-# Contacts:
+</div> -->
+
+
+
+<div>
+    <h3> Contacts:</h3>
 
 <div>
 <a href="https://www.linkedin.com/in/murilo-e-5a516ab2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -65,7 +68,7 @@
 <a href="https://www.codewars.com/users/MEziliano"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/MuriloEziliano#7080"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
     </div>
-    
+    </div>
 <!-- <a href="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img align="center" src=""></a> 
 
 
