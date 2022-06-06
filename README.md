@@ -3,7 +3,7 @@
 >- 🔭 Currently working with Data Science, Data Viz and Machine Learning
 >- 🌱 Actually I'm learning Streamlit/Flask/Django and Cloud :computer::cloud:
 >- :chess_pawn: and also I'm studying the Theory of Games and The SHAP Values in Machine Learning
->- 👯 I'm trying to co work with others Data Scientist and Data Enthusiasts
+>- 👯 I'm trying to co work with others Data Scientist and other devs
 >- 🤔 I'm  looking help with TensorFlow and Pytorch
 >- 📝 I write a few articles in Medium 
 >- 💬 Ask me anything about my projects!
@@ -22,22 +22,32 @@
 
 ## Tools and Technologies: 
 <div style="display: inline_block"><br>
-    <img align ="center" alt = "Python" height"50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+    <img align ="center" alt = "Python" height"50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
     <img align ="center" alt = "Jupyter" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-    <img align ="center" alt = "VSCode" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img align ="center" alt = "MySQL" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align ="center" alt = "Pandas" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-    <img align ="center" alt = "numpy" height"40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img align ="center" alt = "numpy" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img  align ="center" alt = "numpy" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align ="center" alt = "VSCode" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img align ="center" alt = "MySQL" height"40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align ="center" alt = "Pandas" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+    <img align ="center" alt = "numpy" height"40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+    <img align ="center" alt = "TF" height"40" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+    <img align ="center" alt = "Pytorch" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />  
+    <img align ="center" alt = "Flask" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+    <img align ="center" alt = "Django" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img align ="center" alt = "HTML" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />    
+    <img align ="center" alt = "CSS" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img align ="center" alt = "GitHub" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img align ="center" alt = "Git" height"40" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align ="center" alt = "Jira" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+    <img align ="center" alt = "Jira" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+          
+          
 </div>
-
+<!--
 ### Working with:
 <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
     <img src ="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
-
+-->
 # Contacts:
 
 <div>
