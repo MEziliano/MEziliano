@@ -22,6 +22,8 @@
 
 ## Tools and Technologies: 
 <div style="display: inline_block"><br>
+    <img align="center" alt="Ubuntu" height"50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
+    <img align="center" alt="Linux" height"50" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align ="center" alt = "Python" height"50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
     <img align ="center" alt = "Jupyter" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img align ="center" alt = "VSCode" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
