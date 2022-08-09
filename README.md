@@ -9,7 +9,7 @@
 >- 💬 Ask me anything about my projects!
 >- ⚡ Curiosity: I'm photographer at the free time, check my instagram below! :camera_flash: :point_down: and I like to play chess at my free time
 
-
+<!--
 <div>
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&theme=prussian"/>
