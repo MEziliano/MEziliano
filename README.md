@@ -1,4 +1,4 @@
-# Hello, I'm Murilo! 
+# Hello World, I'm Murilo! 
 ### Welcome to my GitHub profile 👋
 >- 🔭 Currently working with Data Science, Data Viz and Machine Learning
 >- 🌱 Actually I'm learning Streamlit/Flask/Django and Cloud :computer::cloud:
@@ -36,16 +36,21 @@
     <img align ="center" alt = "Django" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img align ="center" alt = "MySQL" height"40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
         <img align ="center" alt = "SQLite" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
-    <img align ="center" alt = "HTML" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>    
-    <img align ="center" alt = "CSS" height"40" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
     <img align ="center" alt = "GitHub" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align ="center" alt = "Git" height"40" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align ="center" alt = "Jira" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
-    <img align ="center" alt = "Jira" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-          
+    
+   
+
+      
      
 </div>
 <!--
+
+
+      <img align ="center" alt = "Trello" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+      <img align ="center" alt = "Jira" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
+      <img align ="center" alt = "HTML" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>    
+    <img align ="center" alt = "CSS" height"40" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 ### Working with:
 <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
