@@ -1,18 +1,18 @@
 # Hello World, I'm Murilo! 
 ### Welcome to my GitHub profile 👋
->- 🔭 Currently working with Data Science, Data Viz and Machine Learning
->- 🌱 Actually I'm learning Streamlit/Flask/Django and Cloud :computer::cloud:
->- :chess_pawn: and also I'm studying the Theory of Games and The SHAP Values in Machine Learning
->- 👯 I'm trying to co work with others Data Scientist and other devs
->- 🤔 I'm  looking help with TensorFlow and Pytorch
->- 📝 I write a few articles in Medium 
->- 💬 Ask me anything about my projects!
->- ⚡ Curiosity: I'm photographer at the free time, check my instagram below! :camera_flash: :point_down: and I like to play chess at my free time
+- 🔭 Currently working with Data Science, Data Viz and Machine Learning
+- 🌱 Actually I'm learning Streamlit/Flask/Django and Cloud :computer::cloud:
+- :chess_pawn: and also I'm studying the Theory of Games and The SHAP Values in Machine Learning
+- 👯 I'm trying to co work with others Data Scientist and other devs
+- 🤔 I'm  looking help with TensorFlow and Pytorch
+- 📝 I write a few articles in Medium 
+- 💬 Ask me anything about my projects!
+- ⚡ Curiosity: I'm photographer at the free time, check my instagram below! :camera_flash: :point_down: and I like to play chess at my free time
 
-<!--
+
 <div>
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&theme=prussian"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&layout=compact&theme=prussian"/>
 
 <!--    #🎧 Spotify Playing
 [<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="murilosez Spotify Playing" width="350" />](https://open.spotify.com/user/murilosez)
