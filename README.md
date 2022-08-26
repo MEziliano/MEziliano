@@ -16,12 +16,12 @@
     
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username=MEziliano&hide=jupyter%20notebook)](https://github.com/username=MEziliano/github-readme-stats)
+
     
 <!--    #🎧 Spotify Playing
 [<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="murilosez Spotify Playing" width="350" />](https://open.spotify.com/user/murilosez)
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username=MEziliano&hide=jupyter%20notebook"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username=MEziliano&hide=jupyter%20notebook)](https://github.com/username=MEziliano/github-readme-stats)
 
 -->
 </div>
