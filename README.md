@@ -62,8 +62,8 @@
 <div style="display: inline_block"><br>
     
 <h3> Concluded Projects! </h3>
-    <img height="140em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=HeartDisease">
-    <img height="140em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=Bank-Churn-Predict">
+    <img height="120em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=HeartDisease">
+    <img height="120em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=Bank-Churn-Predict">
     
 
 </div>
