@@ -13,13 +13,16 @@
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&layout=compact&theme=prussian"/>
+    
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username=MEziliano&hide=jupyter%20notebook)](https://github.com/username=MEziliano/github-readme-stats)
+    
 <!--    #🎧 Spotify Playing
 [<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="murilosez Spotify Playing" width="350" />](https://open.spotify.com/user/murilosez)
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username=MEziliano&hide=jupyter%20notebook"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username=MEziliano&hide=jupyter%20notebook)](https://github.com/username=MEziliano/github-readme-stats)
+
 -->
 </div>
 
@@ -44,14 +47,8 @@
     <img align ="center" alt = "GitHub" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align ="center" alt = "Git" height"40" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     
-   
-
-      
-     
 </div>
 <!--
-
-
       <img align ="center" alt = "Trello" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
       <img align ="center" alt = "Jira" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
       <img align ="center" alt = "HTML" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>    
@@ -62,7 +59,14 @@
     <img src ="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div> -->
 
+<div style="display: inline_block"><br>
+    
+<h3> Concluded Projects! </h3>
+    <img height="140em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=HeartDisease">
+    <img height="140em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=Bank-Churn-Predict">
+    
 
+</div>
 
 <div>
     <h3> Contacts:</h3>
