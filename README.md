@@ -8,7 +8,14 @@
 - 📝 I write a few articles in Medium 
 - 💬 Ask me anything about my projects!
 - ⚡ Curiosity: I'm photographer at the free time, check my instagram below! :camera_flash: :point_down: and I like to play chess at my free time
-
+### Currently working at:
+<div>
+    DNC <br>
+    Faculdade Impacta Tecnologia <br> 
+    London Stock Exchange - LSEG 
+    <br>
+</div>
+<br>
 
 <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
