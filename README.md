@@ -10,10 +10,16 @@
 - ⚡ Curiosity: I'm photographer at the free time, check my instagram below! :camera_flash: :point_down: and I like to play chess at my free time
 ### Currently working at:
 <div>
-    DNC <br>
-    Faculdade Impacta Tecnologia <br> 
-    London Stock Exchange - LSEG 
-    <br>
+    <picture>
+    <source height="100em" align="center" srcset="https://files.engaged.com.br/5c192cdf667332429960563e/account/5c192cdf667332429960563e/rZRopHkjRdKrUwB0Ajri_logo-alta-impacta.png">
+   <img alt="Logo" src="https://files.engaged.com.br/5c192cdf667332429960563e/account/5c192cdf667332429960563e/rZRopHkjRdKrUwB0Ajri_logo-alta-impacta.png">
+</picture>    
+    
+  <picture>
+  <source height="100em" align="center" srcset="https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg">
+  <img alt="Logo" src="[[https://www.lseg.com/content/dam/lseg/en_us/images/logos/thumbnail/lseg-default-social-image.jpg.transform/rect-1248/q82/image.jpg](https://logospng.org/wp-content/uploads/london-stock-exchange-group.png)](https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg)">
+</picture>
+
 </div>
 <br>
 
@@ -52,14 +58,14 @@
     <img align ="center" alt = "TF" height"40" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
     <img align ="center" alt = "Pytorch" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />  
     <img align ="center" alt = "Flask" height"40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-    <img align ="center" alt = "Django" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img align ="center" alt = "C++" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img align ="center" alt = "MySQL" height"40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
         <img align ="center" alt = "SQLite" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
     <img align ="center" alt = "GitHub" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align ="center" alt = "Git" height"40" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     
-</div>
-<!--
+</div> <!--
+<img align ="center" alt = "Django" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
       <img align ="center" alt = "Trello" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
       <img align ="center" alt = "Jira" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
       <img align ="center" alt = "HTML" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>    
