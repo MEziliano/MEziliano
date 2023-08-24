@@ -17,7 +17,7 @@
     
   <picture>
   <source height="100em" align="center" srcset="https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg">
-  <img alt="Logo" src="[[https://www.lseg.com/content/dam/lseg/en_us/images/logos/thumbnail/lseg-default-social-image.jpg.transform/rect-1248/q82/image.jpg](https://logospng.org/wp-content/uploads/london-stock-exchange-group.png)](https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg)">
+  <img alt="Logo" src="https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg">
 </picture>
 
 </div>
