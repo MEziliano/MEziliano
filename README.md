@@ -16,7 +16,7 @@
 </picture>    
     
   <picture>
-  <source height="100em" align="center" srcset="https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg">
+  <source height="110em" align="center" srcset="https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg">
   <img alt="Logo" src="https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg">
 </picture>
 
