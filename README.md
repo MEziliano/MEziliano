@@ -37,12 +37,8 @@
 <div style="display: inline_block"><br> 
 
 <h3> Under development Projects </h3>
-
 <img height="120em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=Brazilian-Civil-Aviation-Agency-passengers-Demand">
-
-    
 </div>
-
 
 ## Tools and Technologies: 
 <div style="display: inline_block"><br>
