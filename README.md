@@ -22,15 +22,16 @@
   <picture>
   <source height="110em" align="center" srcset="https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg">
   <img alt="Logo" src="https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg">
-</picture>
-<br> <!--
+    </picture>
+<br>
+<!--
 Faculdade Impacta <br>
 LSEG -->
 <br>
 
 </div> 
 
-<br>
+
 
 <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
