@@ -8,6 +8,10 @@
 - 📝 I write a few articles in Medium 
 - 💬 Ask me anything about my projects!
 - ⚡ Curiosity: I'm photographer at the free time, check my instagram below! :camera_flash: :point_down: and I like to play chess at my free time
+
+![226190894-18e959ba-d458-4a94-ac44-790190f2a947](https://github.com/MEziliano/MEziliano/assets/77080184/a6d44caa-1bd8-4003-853f-04572d38a055)
+
+
 ### Currently working at:
 <div>
     <picture>
@@ -19,12 +23,12 @@
   <source height="110em" align="center" srcset="https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg">
   <img alt="Logo" src="https://i.pinimg.com/736x/99/6f/aa/996faa8c277901a6984d567e57315499.jpg">
 </picture>
-<br>
+<br> <!--
 Faculdade Impacta <br>
-LSEG
+LSEG -->
 <br>
 
-</div>![226190894-18e959ba-d458-4a94-ac44-790190f2a947](https://github.com/MEziliano/MEziliano/assets/77080184/a6d44caa-1bd8-4003-853f-04572d38a055)
+</div> 
 
 <br>
 
@@ -61,7 +65,7 @@ LSEG
     <img align ="center" alt = "Flask" height"40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
     <img align ="center" alt = "C++" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img align ="center" alt = "MySQL" height"40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-        <img align ="center" alt = "SQLite" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
+    <img align ="center" alt = "SQLite" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
     <img align ="center" alt = "GitHub" height"40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align ="center" alt = "Git" height"40" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     
