@@ -22,7 +22,10 @@
 <br>
 Faculdade Impacta <br>
 LSEG
-</div>
+<br>
+
+</div>![226190894-18e959ba-d458-4a94-ac44-790190f2a947](https://github.com/MEziliano/MEziliano/assets/77080184/a6d44caa-1bd8-4003-853f-04572d38a055)
+
 <br>
 
 <div>
