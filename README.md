@@ -9,7 +9,8 @@
 - 💬 Ask me anything about my projects!
 - ⚡ Curiosity: I'm photographer at the free time, check my instagram below! :camera_flash: :point_down: and I like to play chess at my free time
 
-![226190894-18e959ba-d458-4a94-ac44-790190f2a947](https://github.com/MEziliano/MEziliano/assets/77080184/a6d44caa-1bd8-4003-853f-04572d38a055)
+<img src="https://github.com/MEziliano/MEziliano/assets/77080184/a6d44caa-1bd8-4003-853f-04572d38a055" 
+align="center" height="480" width="1260"/>
 
 
 ### Currently working at:
@@ -81,7 +82,7 @@
 <a href="https://t.me/MuriloSEz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://medium.com/@murilosez06" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@murilosez06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href ="https://www.instagram.com/by_ezln/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<!-- <a href ="https://www.instagram.com/by_ezln/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> --> 
 </div> 
 
 <div>
