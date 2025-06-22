@@ -90,6 +90,7 @@ align="center" height="480" width="1260"/>
 <a href="https://www.kaggle.com/muriloeziliano"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://www.hackerrank.com/murilosez06"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" taget="_blank"></a>
 <a href ="https://open.spotify.com/user/murilosez"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-<a href="https://www.codewars.com/users/MEziliano"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/MuriloEziliano#7080"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div></div>
+</div>
+<!-- <a href="https://www.codewars.com/users/MEziliano"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
+-->
