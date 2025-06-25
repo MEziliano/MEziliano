@@ -16,7 +16,7 @@ align="center" height="480" width="1260"/>
 ### Currently working at:
 <div>
     <picture>
-    <img src="https://lh3.googleusercontent.com/g-aT_t_447FjCza6293J_iWIb7SlP5vgZEvk_ebNvA_bYxlWCiAN27uzpq717Xm4WV_q6ddB7u4hqg">
+    <img src="https://santodigital.com.br/wp-content/uploads/2024/04/hero-logo-santodigital.svg">
 </picture>    
 </div> 
 
