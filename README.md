@@ -7,33 +7,32 @@
 - 🤔 I'm  looking help with TensorFlow and Pytorch
 - 📝 I write a few articles in Medium 
 - 💬 Ask me anything about my projects!
-- ⚡ Curiosity: I'm photographer at the free time, check my instagram below! :camera_flash: :point_down: and I like to play chess at my free time
+- ⚡ Curiosity: I'm photographer at the free time I like to play chess
+<div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&layout=compact&theme=prussian"/>
+</div>    
 
 <img src="https://github.com/MEziliano/MEziliano/assets/77080184/a6d44caa-1bd8-4003-853f-04572d38a055" 
 align="center" height="480" width="1260"/>
 
 
-### Currently working at:
+### Currently working at: :briefcase:
 <div>
     <picture>
-    <img src="https://santodigital.com.br/wp-content/uploads/2024/04/hero-logo-santodigital.svg">
+    <img  align ="center"  height="120em" src="https://santodigital.com.br/wp-content/uploads/2024/04/hero-logo-santodigital.svg">
 </picture>    
 </div> 
-
-
-
-<div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MEziliano&show_icons=true&theme=prussian"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEziliano&layout=compact&theme=prussian"/>
-    
 
 <div style="display: inline_block"><br> 
 
 <h3> Under development Projects </h3>
-<img height="120em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=Brazilian-Civil-Aviation-Agency-passengers-Demand">
+
+#### Comming soon . . . 
+<!-- <img height="120em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=Brazilian-Civil-Aviation-Agency-passengers-Demand"> -->
 </div>
 
-## Tools and Technologies: 
+## Tools and Technologies: :computer:
 <div style="display: inline_block"><br>
    <img align="center" alt="Linux" height"50" width="40"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img align="center" alt="Ubuntu" height"50" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
@@ -60,7 +59,7 @@ align="center" height="480" width="1260"/>
       <img align ="center" alt = "HTML" height"40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>    
     <img align ="center" alt = "CSS" height"40" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
     
-### Working with:
+### Working with: :construction:
 <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
     <img src ="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
@@ -68,15 +67,15 @@ align="center" height="480" width="1260"/>
 
 <div style="display: inline_block"><br>
     
-<h3> Concluded Projects! </h3>
+<!-- <h3> Concluded Projects! </h3>
     <img height="120em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=HeartDisease">
-    <img height="120em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=Bank-Churn-Predict">
+    <img height="120em" src ="https://github-readme-stats.vercel.app/api/pin/?username=MEziliano&repo=Bank-Churn-Predict"> -->
     
 
 </div>
 
 <div>
-    <h3> Contacts:</h3>
+    <h3> Contacts: 📞</h3>
 <div>
 <a href="https://www.linkedin.com/in/murilo-e-5a516ab2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://t.me/MuriloSEz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
@@ -86,11 +85,10 @@ align="center" height="480" width="1260"/>
 </div> 
 
 <div>
-<h3> You can also find me at: </h3>
+<h3> You can also find me at: 🔍 </h3>
 <a href="https://www.kaggle.com/muriloeziliano"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://www.hackerrank.com/murilosez06"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" taget="_blank"></a>
 <a href ="https://open.spotify.com/user/murilosez"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/MuriloEziliano#7080"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
-<!-- <a href="https://www.codewars.com/users/MEziliano"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
--->
+
